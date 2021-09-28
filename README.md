@@ -2,6 +2,7 @@
 
 - 🌱 Atualmente estou estudando JavaScript, TypeScript, Python e Elixir.
 - 🧭 Futuramente, pretendo estudar Angular e PHP.
+- 🎓 Sou formado em Administração pela UDF.
 - 💬 Gosto de animes, filmes, séries e games.
 
 <!-- Perfil personalizado através do canal da Rafaella Ballerini-->
