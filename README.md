@@ -1,3 +1,6 @@
+<!-- Perfil personalizado através do canal da Rafaella Ballerini-->
+
+
 ### Olá Mundo, meu nome é Wanderson.
 
 - 🌱 Atualmente estou estudando JavaScript, TypeScript, Python e Elixir.
@@ -5,7 +8,6 @@
 - 🎓 Sou formado em Administração pela UDF.
 - 💬 Gosto de animes, filmes, séries e games.
 
-<!-- Perfil personalizado através do canal da Rafaella Ballerini-->
 
 <br>
 <div align="center">
@@ -27,3 +29,4 @@
   <a href = "mailto:wan01dez0013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wanderson-silva-rodrigues-70598b106" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
