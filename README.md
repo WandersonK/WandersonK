@@ -3,7 +3,7 @@
 
 ### Olá Mundo, meu nome é Wanderson.
 
-- 🌱 Atualmente estou estudando JavaScript, TypeScript, Python e Elixir.
+- 🌱 Atualmente estou estudando Python, JavaScript, TypeScript e PostgreSQL. <!--- 🌱 Atualmente estou estudando JavaScript, TypeScript, Python e Elixir.-->
 - 🧭 Futuramente, pretendo estudar Angular e PHP.
 - 🎓 Sou formado em Administração pela UDF.
 - 💬 Gosto de animes, filmes, séries e games.
