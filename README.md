@@ -6,7 +6,7 @@
 - 🌱 Atualmente estou estudando Python, JavaScript, TypeScript e PostgreSQL. <!--- 🌱 Atualmente estou estudando JavaScript, TypeScript, Python e Elixir.-->
 - 🧭 Futuramente, pretendo estudar Angular e PHP.
 - 🎓 Sou formado em Administração pela UDF.
-- 🎓 Realizando uma Pós em Análise e desenvolvimento de programas pela <a href="https://descomplica.com.br/pos-graduacao/tecnologia/pos-em-analise-e-desenvolvimento-de-programas/" target="_blank">Descomplica<a>
+- 🎓 Realizando uma Pós em Análise e desenvolvimento de programas pela Descomplica.
 - 💬 Gosto de animes, filmes, séries e games.
 
 
