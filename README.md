@@ -7,6 +7,7 @@
 - 🧭 Futuramente, pretendo estudar Angular e PHP.
 - 🎓 Sou formado em Administração pela UDF.
 - 🎓 Realizando uma Pós em Análise e desenvolvimento de programas pela Descomplica.
+- 🎓 Realizando uma Pós em Análise de dados pela Descomplica.
 - 💬 Gosto de animes, filmes, séries e games.
 
 
