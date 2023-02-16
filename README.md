@@ -3,8 +3,8 @@
 
 ### Olá Mundo, meu nome é Wanderson.
 
-- 🌱 Atualmente estou estudando Python, JavaScript, TypeScript e PostgreSQL. <!--- 🌱 Atualmente estou estudando JavaScript, TypeScript, Python e Elixir.-->
-- 🧭 Futuramente, pretendo estudar Angular e PHP.
+- 🌱 Atualmente estou estudando Python, PHP, WordPress e PostgreSQL. <!--- 🌱 Atualmente estou estudando JavaScript, TypeScript, Python e Elixir.-->
+- 🧭 Futuramente, pretendo estudar Angular.
 - 🎓 Sou formado em Administração pela UDF.
 - 🎓 Realizando uma Pós em Análise e desenvolvimento de programas pela Descomplica.
 - 🎓 Realizando uma Pós em Análise de dados pela Descomplica.
