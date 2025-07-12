@@ -3,11 +3,9 @@
 
 ### Olá Mundo, meu nome é Wanderson.
 
-- 🌱 Atualmente estou estudando Python, PHP, WordPress e PostgreSQL. <!--- 🌱 Atualmente estou estudando JavaScript, TypeScript, Python e Elixir.-->
-- 🧭 Futuramente, pretendo estudar Angular.
+- 🌱 Constantemente aprendendo Python, WordPress, JavaScript, HTML e CSS. <!--- 🌱 Atualmente estou estudando JavaScript, TypeScript, Python e Elixir.-->
 - 🎓 Sou formado em Administração pela UDF.
-- 🎓 Realizando uma Pós em Análise e desenvolvimento de programas pela Descomplica.
-- 🎓 Realizando uma Pós em Análise de dados pela Descomplica.
+- 🎓 Pós em Análise e desenvolvimento de programas pela Descomplica.
 - 💬 Gosto de animes, filmes, séries e games.
 
 
@@ -22,11 +20,13 @@
 <div style="display: inline_block"><br>
 <!-- https://devicon.dev/ -->
   <img align="center" alt="Wan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="Wan-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Wan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img align="center" alt="Wan-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img align="center" alt="Wan-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+  <img align="center" alt="Wan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img align="center" alt="Wan-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="Wan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Wan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="Wan-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<!--   <img align="center" alt="Wan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" /> -->
 </div>
   
 <div><br>
